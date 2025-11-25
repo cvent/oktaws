@@ -57,7 +57,7 @@ reqwest-middleware = "0.4.2"
 
 [dev-dependencies]
 aws-smithy-runtime = { version = "1", features = ["test-util"] }
-http = "1"
+http = "1.4.0"
 mockall = "0.13"
 serial_test = "3"
 tempfile = "3"
