@@ -22,7 +22,7 @@ aws-sdk-sts = { version = "1", features = ["behavior-version-latest"] }
 aws-sdk-iam = { version = "1", features = ["behavior-version-latest"] }
 backoff = { version = "0.4", features = ["tokio"] }
 base64 = "0.22"
-clap = { version = "4", features = ["derive"] }
+clap = { version = "4.5.60", features = ["derive"] }
 clap-verbosity-flag = "3"
 color-eyre = "0.6"
 dialoguer = "0.11"
